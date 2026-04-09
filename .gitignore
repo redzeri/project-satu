@@ -1,0 +1,11 @@
+# File konfigurasi yang ada password/credential
+.env
+config.ini
+secret.json
+
+# File log server atau aplikasi
+*.log
+
+# File sampah bawaan Python
+__pycache__/
+*.pyc
